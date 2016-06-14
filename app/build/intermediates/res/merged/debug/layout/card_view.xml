@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:id="@+id/card_view"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardBackgroundColor="@color/cardview_light_background"
+    card_view:cardElevation="10dp"
+    card_view:cardPreventCornerOverlap="false"
+    android:foreground="?attr/selectableItemBackground"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:src="@drawable/sr150"
+                android:id="@+id/vehicle_photo" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="丞正愛車"
+                android:id="@+id/vehicle_name"
+                android:textSize="28dp"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="99dp"
+                    android:layout_height="99dp"
+                    android:layout_marginTop="50dp"
+                    android:id="@+id/vehicle_lock_state"
+                    android:src="@drawable/ic_unlock"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="unlock"
+                    android:textSize="26dp"
+                    android:textColor="@android:color/black"
+                    android:layout_gravity="center_horizontal"
+                    android:id="@+id/vehicle_lock_state_txt"/>
+            </LinearLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

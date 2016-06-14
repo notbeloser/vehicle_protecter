@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1058937567154-31u3ugk0g0k2b88tj6ul0bblphq689i9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vehicle-protecter-c3cb1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1058937567154</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrqnvUWTwLueJwoOn6kC7nIZHVyA9l-o0</string>
+    <string name="google_app_id" translatable="false">1:1058937567154:android:f8a01a0eaa360595</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrqnvUWTwLueJwoOn6kC7nIZHVyA9l-o0</string>
+    <string name="google_storage_bucket" translatable="false">vehicle-protecter-c3cb1.appspot.com</string>
+</resources>

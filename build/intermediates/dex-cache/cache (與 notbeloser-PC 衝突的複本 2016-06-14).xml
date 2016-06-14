@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.0_531d63fbe07c8caf9b0f813ee2744a34b4237c1a.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a2d637cb6a100dd3a605bd094a8297ccb6dab18b">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0-beta1_1fe760a19efaa6348b417813c605e630d1361e76.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.0_b34576d6d0f512c851f6c837d7d12a26095097ab.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.0_eddb90d9c72433931a27fb1157877dbd947a2114.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.0_3047accf3e9189153fef816d21ce67533a8162ca.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.0_54d85fe26b9ab2fb2a9de406a980910f36d01bfb.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.0_349bf8f5422e592e8cf1fe7a0494227618eb62fa.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_001ff728a59ce25c830926c477ff99c2ab5847c9.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6fd4eef51a55508bdf3f43f8ad96992e1da3850b">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-beta1_fd0980a4c148c757a102d1de472f8f4069847f25.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.0_27714d07cf61fec3c435f8fe72692d81860c8cdc.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.0_23170924b770571c59b5416fb80404431bb9b635.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.0_53ca16af3202d8886e38c75495a407ffd2f2c745.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.0_c924ce42d72e24acebabad49dcc1692208c7a574.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_fedc834af0e80cdfafdf0e8cee0bf84e92230c2b.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.0_40541448161687df7f47d634fb0bf3c49488f6e7.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.0_bdefb4ad918dc44f260fc9ad95188c74cc9f6342.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.0_325b820cffffd5e5d36eee18742aca9ca401d3f9.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.0_adfb51cb5b5ec57d085af83d74c14f6c74d1866e.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f38c92145a1edcf7534e6112511a14ca5d6c6a84">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d1f718dc5e770050c45fc90646583e33b62b05d1.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.0_c335211d2678730fd922e0e30807757dd07cc689.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.0_71e54aa5a8017d1a448e39575833b2bd71ca23ae.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.0_de05a87e2262dacc05919bf1d40ca6c959a64f7a.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_7f1e7c8da603febfe63194801290b714559fdc89.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.0_7700be03a479d02f9052507b625641abbf12283e.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_7e27a600b705690243466bf0a713981c06e00813.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1_19489a9d0719fe8c95a0baf186da818a2b96c0fa.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.0_0efcc3ebbf2a6d153d790f7d37f5c757edf5dcb0.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_ab28b71dc4f5419a09d2fede15dba377cb96726d.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_235348c6ab44e8737baf7e1a5bf4db6ed8fca6cd.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.0_cfc0fe80db333ff38323f726ddd4b5918c43d251.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.0_630a93e3e8a8009a5ba06c07abf4e11bc2ea1532.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.0_a33ad129b098a32ff464830732660fc6a871990f.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_a118e1a1fd1371003436c91a30b35081da9f7814.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_a3b698bce4bc31de726db883d7398684f1779050.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-beta1_e03758a7b636ed40a00525e6b1943cfe1e0b1d6b.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.0_dca3228cb81b7805996b64fe9cb5d3a2c1b55dd3.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_f0c6f3c6f7e8c2f2333fd9017ffaf452c2ce1841.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_ab698988db496ccf77ca893a58de6537694c41a9.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_45d61bd375fb13a6c250c67f266fdfd00d207318.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_becb6f557bd78706d6c9f3dc16a293850e568ba5.jar" />
+    </item>
+    <item
+        jar="C:\Users\notbeloser\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1_435d29d71044cf8b34f96770bb4235168248c585.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0ef166d141b7f2fd298ae2875414c95053c4d85">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\instant-run_1d4670a4750f774770e3918ae000522677ca3b8f.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.0_d1d6e5235e6e8bcb2fc290905e6049ed21f02c21.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-beta1_a879d69602a8dc935f605073c99882e2d0d8b169.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-beta1_c43a0f4b4ce1fa63495aec3b7260803e41f04c7c.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-beta1_48709b57dc37f30880fb862ccfd3d08f41dbc45c.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.0_557cc23cd6e135d54ab2817a5c76c66ce8b93610.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_15eeab647a058841cf1ab13a0c68109c73d276c5.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.0_7b9dc3b2954c3d13b466d704cd7f30c106e30c9f.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_1817752925b49072827aae0b9fc7b7e904d65cb0.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_c09978141429f891abe28b3033cd4ee22204325d.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.0_fe947fc83d14fe9ea1b5e35f807003aeadeafda4.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.0_1fa4f1d077d3e411594126d3ccdb5c687ee5c030.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.0_6652a1bc76561b2da9b16c80568527207cf353c9.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-beta1_e069a2966c37e77feb3607893daa1ff1c6163fbc.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="D:\Google Drive\Dropbox\NTUT\NTUT_Android\vehicle_protecter\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.0_ea9463b1adf2b45dae4cc85bdde3e4072980402b.jar" />
+    </item>
+
+</items>
