@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vehicle_protecter</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_vehicle_info">vehicle_info</string>
+    <string name="title_activity_edit_vehicle">edit_vehicle</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
